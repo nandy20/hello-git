@@ -5,5 +5,6 @@ public class Hello {
       System.out.println("Changes after First commit!");
       //feature-change
 	  System.out.println("Changes after fork!");
+	  System.out.println("Changes in feature after fork!");
    }
 }
